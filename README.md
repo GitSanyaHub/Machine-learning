@@ -4,8 +4,8 @@
 
 ## Содержание
 
-- [Домашнее задание 1: EDA (Исследовательский анализ данных) + K-means clustering](https://github.com/GitSanyaHub/Business-Data-Analysis/tree/main/HW-1)
-- [Домашнее задание 2: Построение заявочной скоринговой модели ToDo](#TODO)
+- [Домашнее задание 1: Pandas и работа с табличными данными](https://github.com/GitSanyaHub/Machine-learning/tree/main/№1%20Pandas)
+- [Домашнее задание 2: EDA + линейная регрессия](https://github.com/GitSanyaHub/Machine-learning/blob/main/№2%20Linear%20regression/homework_practice_02_linregr.ipynb)
 - [Домашнее задание 3: ToDo](#TODO)
 - [Практический проект: ToDo](#TODO)
 
