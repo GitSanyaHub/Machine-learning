@@ -12,4 +12,5 @@
 - [Домашнее задание 6: Бустинг](https://github.com/GitSanyaHub/Machine-learning/tree/main/№6%20Boosting)
 - [Домашнее задание 7: Разложение ошибки на смещение и разброс](https://github.com/GitSanyaHub/Machine-learning/tree/main/№7%20Bias%20variance%20decomposition)
 
-
+## Ссылки
+[Репозиторий курса](https://github.com/esokolov/ml-course-hse)
