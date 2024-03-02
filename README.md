@@ -1,6 +1,6 @@
 # Machine-learning
 
-В этом репозитории представлены решения практических задач, выполненных в рамках курса [Машинное обучение 1](https://www.hse.ru/ba/ami/courses/835157570.html), проводимого Национальным Исследовательским Университетом Высшая школа экономики (НИУ ВШЭ).
+В этом репозитории представлены решения практических задач, выполненных в рамках курса [Машинное обучение 1](https://www.hse.ru/ba/ami/courses/835157570.html) ФКН ВШЭ.
 
 ## Содержание
 
@@ -11,5 +11,5 @@
 - [Домашнее задание 5: Решающие деревья](https://github.com/GitSanyaHub/Machine-learning/tree/main/№5%20Trees)
 - [Домашнее задание 6: Бустинг](https://github.com/GitSanyaHub/Machine-learning/tree/main/№6%20Boosting)
 - [Домашнее задание 7: Разложение ошибки на смещение и разброс](https://github.com/GitSanyaHub/Machine-learning/tree/main/№7%20Bias%20variance%20decomposition)
----
+
 
